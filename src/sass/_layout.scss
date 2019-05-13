@@ -1,7 +1,7 @@
 .container {
 	max-width: 1200px;
 	margin: 8rem auto;
-	background-color: var(--color-grey-light-2);
+	background-color: var(--color-grey-light-1);
 	box-shadow: 0 2rem 6rem rgba(0, 0, 0, 0.3);
 
 	min-height: 80vh;
@@ -10,7 +10,7 @@
 .header {
 	height: 7rem;
 	background-color: #fff;
-	border-bottom: var(--color-grey-light-1);
+	border-bottom: 1px solid var(--color-grey-light-2);
 	font-size: 1.4rem;
 
 	display: flex;
@@ -34,7 +34,6 @@
 
 .hotel-view {
 	// remove later
-	background-color: teal;
 	height: 80rem;
 	//
 
